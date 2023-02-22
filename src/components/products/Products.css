@@ -1,0 +1,13 @@
+.products_father {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(248, 246, 243);
+    padding-top: 50px;
+}
+
+h2 {
+    font-size: 40px;
+    color: rgb(82, 42, 42);
+}
+
